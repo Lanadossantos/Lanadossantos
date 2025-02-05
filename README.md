@@ -21,23 +21,18 @@
 <p align="center">
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-    <figcaption>React Native</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-    <figcaption>C++</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-    <figcaption>Arduino</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/86/ESP8266_chip_pinout.svg">
-    <figcaption>ESP8266</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-    <figcaption>Git</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
