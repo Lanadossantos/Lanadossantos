@@ -1,13 +1,16 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e00995&height=120&section=header"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&color=e00995&center=true&vCenter=true&width=500&lines=Alana+Santos;Cientista+da+Computação;" alt="Typing SVG" />
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=e00995&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Meu+nome+é+Alana+Santos;Bem-vindo(a)+ao+meu+GitHub!+:%29)](https://git.io/typing-svg) 
 </p>
 
+</br>
 
+<p>
 ⚙ Automação & Microcontroladores | 🚀 Apaixonada por Tecnologia
 
 Habilidades em **React Native** e **C++**, experiência em automação com microcontroladores. **Amo aprender e experimentar coisas novas!** 💡✨
-
+</p>
 
 ---
 ![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
