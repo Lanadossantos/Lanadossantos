@@ -24,6 +24,7 @@ Sou uma cientista da computação com habilidades em **React Native** e **C++**,
 ![Alana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alana-santos&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alana-santos&layout=compact&theme=tokyonight)
 
+
 ---
 
 ## 🌟 Projetos em Destaque
@@ -44,4 +45,4 @@ Sou uma cientista da computação com habilidades em **React Native** e **C++**,
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alana%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-santos-692887241)
 [![Email](https://img.shields.io/badge/Email-alcsantos07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alcsantos07@gmail.com)
-
+![Alana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=alana-santos&show_icons=true&theme=dracula)
