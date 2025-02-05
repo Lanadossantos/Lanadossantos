@@ -4,9 +4,10 @@
 ### 👩‍💻 Cientista da Computação | 💡 Automação & Microcontroladores | 🚀 Apaixonada por Tecnologia
 
 Sou uma cientista da computação com habilidades em **React Native** e **C++**, experiência em automação com microcontroladores. Amo aprender e experimentar coisas novas! 💡✨
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
+
 
 ---
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) 
 
 ## 🚀 Tecnologias & Ferramentas
 
