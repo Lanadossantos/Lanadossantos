@@ -7,9 +7,10 @@
 </br>
 
 <p>
-⚙ Automação & Microcontroladores | 🚀 Apaixonada por Tecnologia
 
-Habilidades em **React Native** e **C++**, experiência em automação com microcontroladores. **Amo aprender e experimentar coisas novas!** 💡✨
+  
+ - Minha graduação é Ciência da Computação.
+ - Possuo habilidades em **React Native** e **C++**, experiência em automação com microcontroladores.
 </p>
 
 ---
@@ -17,11 +18,36 @@ Habilidades em **React Native** e **C++**, experiência em automação com micro
 
 ## 🚀 Tecnologias & Ferramentas
 
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<p align="center">
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
+    <figcaption>React Native</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
+    <figcaption>C++</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
+    <figcaption>Arduino</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/86/ESP8266_chip_pinout.svg">
+    <figcaption>ESP8266</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
+    <figcaption>Git</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
+    <figcaption>Java</figcaption>
+  </figure>
+  <figure>
+    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+    <figcaption>Python</figcaption>
+  </figure>
+</p>
 
 ---
 
