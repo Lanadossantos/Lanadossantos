@@ -9,7 +9,7 @@
 <p>
 
   
- - Minha graduação é Ciência da Computação.
+ - Minha graduação é em Ciência da Computação.
  - Possuo habilidades em **React Native** e **C++**, experiência em automação com microcontroladores.
 </p>
 
