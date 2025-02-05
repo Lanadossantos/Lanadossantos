@@ -18,29 +18,22 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/86/ESP8266_chip_pinout.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  </figure>
-  <figure>
-    <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  </figure>
+<p align="center">
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> React Native
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"> C++
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Arduino
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/86/ESP8266_chip_pinout.svg"> ESP8266
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
+  &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 </p>
+
 
 ---
 
