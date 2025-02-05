@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Arduino
   &nbsp;&nbsp;&nbsp;
-  <img height="40" width="50" src="https://upload.wikimedia.org/wikipedia/commons/3/3b/ESP8266EX_MCU.svg"> ESP8266
+  <img height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/esp8266.svg"> ESP8266
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
   &nbsp;&nbsp;&nbsp;
