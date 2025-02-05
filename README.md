@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Arduino
   &nbsp;&nbsp;&nbsp;
-  <img height="40" width="50" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/esp8266.svg"> ESP8266
+  ![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white)
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
   &nbsp;&nbsp;&nbsp;
