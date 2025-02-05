@@ -25,7 +25,7 @@
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Arduino
   &nbsp;&nbsp;&nbsp;
-  <img height="40" width="50" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white"> ESP8266
+  <img height="40" width="50" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white">
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
   &nbsp;&nbsp;&nbsp;
@@ -45,15 +45,15 @@
 
 ## 🌟 Projetos em Destaque
 
-- 🚀 **[Projeto 1](https://github.com/alana-santos/projeto1)** - Descrição breve do projeto.
-- 🤖 **[Projeto 2](https://github.com/alana-santos/projeto2)** - Descrição breve do projeto.
-- 🏡 **[Projeto 3](https://github.com/alana-santos/projeto3)** - Descrição breve do projeto.
+- 🏡 **[Projeto 1](https://github.com/Lanadossantos/Projeto_de_Microcontroladores)** - Projeto para automação residencial.
+- 🤖 **[Projeto 2](https://github.com/MatheusBarbosa-Or/RH-Manager-Alpha)** - Projeto para inicialização de gestão empresarial.
+- 🚀 **[Projeto 3](https://github.com/Lanadossantos/mySchool)** - Aprendendo C#.
 
 ---
 
 ## 💡 Citação Inspiradora
 
-> "A melhor maneira de prever o futuro é inventá-lo." – Alan Kay
+> "Não é a força, mas sim a constância dos bons resultados que conduz os homens à felicidade." – **Nietzsche**
 
 ---
 
@@ -61,3 +61,5 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alana%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-santos-692887241)
 [![Email](https://img.shields.io/badge/Email-alcsantos07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alcsantos07@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=e00995&height=120&section=header"/>
