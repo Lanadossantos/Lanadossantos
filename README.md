@@ -18,7 +18,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-<p align="center">
+<p>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
   </figure>
@@ -36,11 +36,9 @@
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-    <figcaption>Java</figcaption>
   </figure>
   <figure>
     <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-    <figcaption>Python</figcaption>
   </figure>
 </p>
 
