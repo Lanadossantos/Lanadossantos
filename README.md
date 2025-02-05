@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=500&color=ADFF2F&center=true&vCenter=true&width=500&lines=Alana+Santos;Cientista+da+Computação;React+Native+%7C+C%2B%2B+%7C+Automação" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=40&duration=5000&color=e00995&center=true&vCenter=true&width=500&lines=Alana+Santos;Cientista+da+Computação;React+Native+%7C+C%2B%2B+%7C+Automação" alt="Typing SVG" />
 </p>
 
 ### 👩‍💻 Cientista da Computação | 💡 Automação & Microcontroladores | 🚀 Apaixonada por Tecnologia
