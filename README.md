@@ -1,6 +1,5 @@
-![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
 
-# 🌸 Alana Santos 💚
+# Alana Santos ❤
 
 ### 👩‍💻 Cientista da Computação | 💡 Automação & Microcontroladores | 🚀 Apaixonada por Tecnologia
 
@@ -44,4 +43,4 @@ Sou uma cientista da computação com habilidades em **React Native** e **C++**,
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alana%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-santos-692887241)
 [![Email](https://img.shields.io/badge/Email-alcsantos07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alcsantos07@gmail.com)
 
-![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
+![Coding GIF](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif) ![Banner](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
