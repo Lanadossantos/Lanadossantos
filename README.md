@@ -25,14 +25,14 @@
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"> Arduino
   &nbsp;&nbsp;&nbsp;
+  <img height="40" width="50" src="https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white"> ESP8266
+  &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"> Git
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> Java
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"> Python
 </p>
-![ESP8266](https://img.shields.io/badge/ESP8266-000000?style=for-the-badge&logo=esp8266&logoColor=white)
-
 ---
 
 ## 📊 Estatísticas do GitHub
