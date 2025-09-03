@@ -31,8 +31,6 @@
   &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
   &nbsp;&nbsp;&nbsp;
-  <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-  &nbsp;&nbsp;&nbsp;
   <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   
 </p>
@@ -41,7 +39,7 @@
 
 <div align="center">  
   <img src="https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=css,html"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=Swift,Kotlin,Object-C"/>  
 </div>
 ---
 
