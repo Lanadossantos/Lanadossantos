@@ -37,9 +37,13 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Alana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight)
+<div align="center">  
 
+![Alana's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=10)  
+
+</div>  
 
 ---
 
