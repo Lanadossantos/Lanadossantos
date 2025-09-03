@@ -61,4 +61,3 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Alana%20Santos-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alana-santos-692887241)
 [![Email](https://img.shields.io/badge/Email-alcsantos07%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alcsantos07@gmail.com)
 
-![Snake animation](https://github.com/Lanadossantos/Lanadossantos/blob/output/snake.svg)
