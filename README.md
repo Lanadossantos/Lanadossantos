@@ -36,10 +36,10 @@
 </p>
 
 ## 📊 Estatísticas do GitHub
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12"/>  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=Swift,Kotlin,Objective-C"/>  
-</div>
+<p align="center">  
+(https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12<br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=Swift,Kotlin,Objective-C"/> 
+</p>
 ---
 
 ## 🌟 Projetos em Destaque
