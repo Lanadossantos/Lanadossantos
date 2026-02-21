@@ -36,9 +36,12 @@
 </p>
 
 ## 📊 Estatísticas do GitHub
-<p align="center">  
-  ![](https://github-readme-stats.vercel.app/api?username=Lanadossantos&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)<br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&langs_count=8&hide=Swift,Kotlin,Objective-C"/> 
+<p align=center
+
+![](https://nirzak-streak-stats.vercel.app/?user=Lanadossantos&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=Lanadossantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Lanadossantos&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 </p>
 ---
 
